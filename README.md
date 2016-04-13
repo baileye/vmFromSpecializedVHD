@@ -1,5 +1,5 @@
 # vmFromSpecializedVHD
-Powershell Script to create a VM from a specialised VHD
+General Powershell Script to create a VM from a specialised VHD -- you will need to enter parameter values and you will probably want to tweak it slightly to your use case
 
 VHD must be in same storage account that the VM is to be created in.
 
